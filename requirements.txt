@@ -1,0 +1,10 @@
+flask
+requests
+pickle
+sklearn
+jsonify
+numpy
+pandas
+warnings
+seaborn
+matplotlib
